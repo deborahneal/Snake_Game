@@ -1,0 +1,15 @@
+body{
+    background-color: lightgreen;
+    padding-top: 15px;
+    background-image: url(https://images.unsplash.com/photo-1559291001-693fb9166cba?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=900&q=60);
+}
+
+#myCanvas{
+    border: 5px solid goldenrod;
+    border-radius: 10px;
+    background-color: lightslategrey;
+    background-image: url(https://images.unsplash.com/photo-1493839523149-2864fca44919?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=701&q=80);
+    margin: auto;
+    display: flex;
+}
+
